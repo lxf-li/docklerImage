@@ -16,5 +16,5 @@ mongo:4.4
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 nacos/nacos-server:v3.0.1
-
-
+helm:v3.12.3
+calico:3.26.1
